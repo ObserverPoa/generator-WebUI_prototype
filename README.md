@@ -1,1 +1,1 @@
-# WebUI-prototype-generator
+# generator-WebUI_prototype
